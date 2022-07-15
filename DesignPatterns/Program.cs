@@ -11,9 +11,6 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            BuilderPattern builderPattern = new BuilderPattern();
-            builderPattern.Create();
-
             Console.ReadLine();
         }
     }
