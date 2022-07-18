@@ -48,6 +48,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="创建型模式\PrototypePattern.cs" />
     <Compile Include="创建型模式\Singleton.cs" />
+    <Compile Include="结构型模式\AdapterPattern.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
