@@ -11,7 +11,7 @@ namespace DesignPatterns
     {
         static void Main(string[] args)
         {
-            DesignPatterns_AdapterPattern.AdapterPattern a = new DesignPatterns_AdapterPattern.AdapterPattern();
+            DesignPatterns_DecoratorPattern.DecoratorPattern a = new DesignPatterns_DecoratorPattern.DecoratorPattern();
             a.Run();
             Console.ReadLine();
         }

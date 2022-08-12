@@ -49,6 +49,8 @@
     <Compile Include="创建型模式\PrototypePattern.cs" />
     <Compile Include="创建型模式\Singleton.cs" />
     <Compile Include="结构型模式\AdapterPattern.cs" />
+    <Compile Include="结构型模式\BridgePattern.cs" />
+    <Compile Include="结构型模式\DecoratorPattern.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
