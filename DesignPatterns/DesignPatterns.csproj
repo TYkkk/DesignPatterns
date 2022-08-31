@@ -50,6 +50,7 @@
     <Compile Include="创建型模式\Singleton.cs" />
     <Compile Include="结构型模式\AdapterPattern.cs" />
     <Compile Include="结构型模式\BridgePattern.cs" />
+    <Compile Include="结构型模式\CompositePattern.cs" />
     <Compile Include="结构型模式\DecoratorPattern.cs" />
   </ItemGroup>
   <ItemGroup />
