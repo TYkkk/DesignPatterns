@@ -52,6 +52,10 @@
     <Compile Include="结构型模式\BridgePattern.cs" />
     <Compile Include="结构型模式\CompositePattern.cs" />
     <Compile Include="结构型模式\DecoratorPattern.cs" />
+    <Compile Include="结构型模式\FacadePattern.cs" />
+    <Compile Include="结构型模式\FlyweightPattern.cs" />
+    <Compile Include="结构型模式\ProxyPattern.cs" />
+    <Compile Include="行为型模式\TemplateMethodPattern.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
